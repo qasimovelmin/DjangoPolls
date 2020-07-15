@@ -1,0 +1,21 @@
+p a{
+    font-size: 200%;
+    color: darkred;
+}
+
+h1 {
+    text-shadow: 2px 2px black;
+    color: magenta;
+}
+
+label {
+    text-size: 150%;
+
+}
+
+body {
+    background-image: url("background.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom;
+}
